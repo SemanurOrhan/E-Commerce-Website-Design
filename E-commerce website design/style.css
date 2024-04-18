@@ -1,0 +1,28 @@
+#urunler{
+    padding-top:25px;
+
+}
+
+.filter-options{
+    padding-left: 10px;;
+}
+.my-custom-btn {
+    font-size: small;
+    padding: 5px 10px;
+    background-color: #2981E8;
+    display: block;
+}
+.card {
+    position: relative;
+  }
+  
+.fa-heart-o {
+    position: absolute;
+    bottom: 75px;
+    right: 15px;
+  }
+  .fa-heart {
+    position: absolute;
+    bottom: 75px;
+    right: 15px;
+  }
